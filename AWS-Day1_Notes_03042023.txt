@@ -1,0 +1,50 @@
+Cloud based platform
+provides services - storage,servers,database,AI based services, text-to-speech, speech-to-text services
+
+do servers reside in cloud - no
+that means, they exist somehwere, but not sure of fixed location.
+huge datacenters - server farm
+
+Pay-as-you go=> you are billed for what you use, server running for x number of hours.
+you will get a AWS bill at end of month.
+
+other cloud platforms -
+Google Cloud Platform(GCP), Azure,Oracle Cloud, Alibaba Cloud
+
+----------------------------------------
+Iaas - Infra as a service
+Paas - Platform as a service
+Saas - Software as a service
+
+Ex - Email service (gmail)
+
+to host a gmail service- servers, storage, network
+Gmail - Saas (providing software)
+AWS, Azure or GCP - Iaas (providing infra)
+IBM Bluemix - Paas (.NET platform)
+
+------------------------------------------
+How did AWS start?
+
+Amazon - all of us have used amazon
+big billion sale - more users login.
+Amazon IT - internal IT for Amazon Retial.
+ 
+peak period - more servers, non-peak - less number of servers
+Ola - peak 9-11am, 6-8pm non-peak 10pm-4am
+Zomato, Swiggy -they need more servers during peak
+-------------------------------------------
+physical location of AZs
+- for security reasons.
+
+Ondemand - general usage
+Reserved - upfornt payment
+Spot - unused capacity for additional discount
+
+
+
+
+
+
+
+
